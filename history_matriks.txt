@@ -1,0 +1,36 @@
+Waktu: Sat Nov 08 11:19:00 WITA 2025
+Operasi: Penjumlahan
+Matriks A:
+[1 3]
+[9 6]
+Matriks B:
+[5 4]
+[2 14]
+Hasil:
+[6 7]
+[11 20]
+========================================
+Waktu: Sat Nov 08 11:18:59 WITA 2025
+Operasi: Pengurangan
+Matriks A:
+[1 3]
+[9 6]
+Matriks B:
+[5 4]
+[2 14]
+Hasil:
+[-4 -1]
+[7 -8]
+========================================
+Waktu: Sat Nov 08 11:18:57 WITA 2025
+Operasi: Perkalian
+Matriks A:
+[1 3]
+[9 6]
+Matriks B:
+[5 4]
+[2 14]
+Hasil:
+[11 46]
+[57 120]
+========================================
