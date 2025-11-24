@@ -8,8 +8,6 @@
 
 **Aplikasi kalkulator matriks dengan GUI modern dan sistem penyimpanan history**
 
-[Fitur](#-fitur) • [Instalasi](#-instalasi) • [Penggunaan](#-penggunaan) • [Dokumentasi](#-dokumentasi)
-
 </div>
 
 ## 📋 Daftar Isi
@@ -148,19 +146,6 @@ java Main
 | Clear History | Klik tombol Clear History |
 
 ## 📚 Dokumentasi
-
-### Workflow
-
-```mermaid
-graph TD
-    A[User Input] --> B{GUI Interface}
-    B --> C[Read Matrix Values]
-    C --> D{Select Operation}
-    D --> E[Matrix Calculation]
-    E --> F[Display Results]
-    F --> G[Save to History]
-    G --> H[Update History Tab]
-```
 
 ### File Descriptions
 

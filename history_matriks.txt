@@ -1,3 +1,15 @@
+Waktu: Mon Nov 24 11:48:17 WITA 2025
+Operasi: Penjumlahan
+Matriks A:
+[0 0]
+[0 0]
+Matriks B:
+[0 0]
+[0 0]
+Hasil:
+[0 0]
+[0 0]
+========================================
 Waktu: Sat Nov 08 11:19:00 WITA 2025
 Operasi: Penjumlahan
 Matriks A:
@@ -9,7 +21,6 @@ Matriks B:
 Hasil:
 [6 7]
 [11 20]
-========================================
 Waktu: Sat Nov 08 11:18:59 WITA 2025
 Operasi: Pengurangan
 Matriks A:
@@ -21,7 +32,6 @@ Matriks B:
 Hasil:
 [-4 -1]
 [7 -8]
-========================================
 Waktu: Sat Nov 08 11:18:57 WITA 2025
 Operasi: Perkalian
 Matriks A:
@@ -33,4 +43,3 @@ Matriks B:
 Hasil:
 [11 46]
 [57 120]
-========================================
